@@ -1,0 +1,25 @@
+{
+  "name": "css-template-js",
+  "main": "CSSTemplate.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/n-at-han-k/css-template-js",
+  "authors": [
+    "Nathan Kidd (https://github.com/n-at-han-k)",
+    "Nicolás Arias <nicolas@nicolasarias.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n-at-han-k/css-template-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/n-at-han-k/css-template-js/issues"
+  },
+  "description": "Inject and update dynamic CSS using simple js templating",
+  "keywords": [
+    "micro",
+    "dynamic",
+    "css",
+    "templating"
+  ],
+  "license": "MIT"
+}
